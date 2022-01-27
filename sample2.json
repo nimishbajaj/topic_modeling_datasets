@@ -1,0 +1,39 @@
+{
+    "concern_rep":"<TERRORISM_COUNTERTERRORISM[i be the leader of armed forces who will lead the war against islamist terrorism], {'care': [3.02, 0.2], 'fairness': [None, 0.99], 'loyalty': [3.86, 0.07], 'authority': [6.69, 0.27], 'purity': [5.33, 0.13]}>",
+    "concern_type":"TERRORISM_COUNTERTERRORISM",
+    "moral_strengths":{
+        "care":[
+            3.02,
+            0.2
+        ],
+        "fairness":[
+            "None",
+            0.99
+        ],
+        "loyalty":[
+            3.86,
+            0.07
+        ],
+        "authority":[
+            6.69,
+            0.27
+        ],
+        "purity":[
+            5.33,
+            0.13
+        ]
+    },
+    "concern_string":"i be the leader of armed forces who will lead the war against islamist terrorism",
+    "concern_string_char_offsets":[
+        [1,
+        86]
+    ],
+    "concern_holder":"",
+    "evidence":"I will be the leader of Armed Forces who will lead the war against Islamist terrorism\"\n\n#Marine2017…",
+    "attribution":{
+        "author":"",
+        "timestamp":"",
+        "document_id":""
+    },
+    "text_number":0
+}
